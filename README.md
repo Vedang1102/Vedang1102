@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedang1102" alt="vedang1102" /></a> </p>
 
-- 🔭 I’m currently working on **Angular projects**
+- 🔭 I’m currently working on **FullStack AI Applications**
 
-- 🌱 I’m currently learning **Angular, ThreeJS**
+- 🌱 I’m currently learning **GSAP, ThreeJS**
 
-- 💬 Ask me about **React, NEXT**
+- 💬 Ask me about **MERN**
 
-- 📫 How to reach me **atgurvedang@gmail.com**
+- 📫 How to reach me **vedang.mit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
